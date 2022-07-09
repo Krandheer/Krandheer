@@ -8,11 +8,17 @@
   <img src="https://komarev.com/ghpvc/?username=Krandheer&style=flat-square&color=blue" alt=""/>
   <p>Hey! fellow developer  👋  </p>
 </div>
-<hr>
-<p> 👀 I’m interested in web development, data science, AI, healtcare technologies and finance </p?
-<p> 🌱 I’m continuously reading and learning about things I'm interested in. </p>
-<p> 💞️ I’m looking to collaborate on above interested areas of mine. </p>
-<p> 📫 To reach me write at randheer.dakshana15@gmail.com </p>
+
+---
+
+### :man_technologist: About me:
+- I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
+- 👀 I’m interested in web development, data science, AI, healtcare technologies and finance. 
+- 🌱 I’m continuously reading and learning about things I'm interested in.
+- 💞️ I’m looking to collaborate on above interested areas of mine. 
+- Reach me through LinkedIn [![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/randheer-kumar-gautam-804908120/)
+- 📫 To reach me through email [![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](randheer.dakshana15@gmail.com)
 
 <!-- # [![Randheer GitHub stats](https://github-readme-stats.vercel.app/api?username=Krandheer&count_private=true&show_icons=true&theme=dark)](https://github.com/Krandheer/github-readme-stats)
 # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krandheer&count_private=true&langs_count=10&layout=compact)](https://github.com/Krandheer/github-readme-stats) -->
