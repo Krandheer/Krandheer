@@ -14,10 +14,10 @@
 ### :man_technologist: About me:
 - I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- 👀 I’m interested in web development, data science, AI, healtcare technologies and finance. 
+- 👀 I’m interested in web development, data science, AI, healthcare technologies and finance. 
 - 🌱 I’m continuously reading and learning about things I'm interested in.
 - 💞️ I’m looking to collaborate on above interested areas of mine. 
-- Reach me through LinkedIn [![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/randheer-kumar-gautam-804908120/)
+- To reach me through LinkedIn [![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/randheer-kumar-gautam-804908120/)
 - 📫 To reach me through email [![Linkedin Badge](https://img.shields.io/badge/-gmail-blue?style=flat&logo=Gmail&logoColor=white)](randheer.dakshana15@gmail.com)
 
 ---
