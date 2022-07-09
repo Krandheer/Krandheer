@@ -48,4 +48,4 @@
 ---
 
 ### :writing_hand: My recent writing :
-[Recession, skills and survival](https://randheer1.substack.com/)
+[Recession, skills and survival](https://randheer1.substack.com/p/recession-skills-and-survival)
