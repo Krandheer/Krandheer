@@ -20,6 +20,12 @@
 - Reach me through LinkedIn [![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/randheer-kumar-gautam-804908120/)
 - 📫 To reach me through email [![Linkedin Badge](https://img.shields.io/badge/-gmail-blue?style=flat&logo=Gmail&logoColor=white)](randheer.dakshana15@gmail.com)
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+ </div>
 <!-- # [![Randheer GitHub stats](https://github-readme-stats.vercel.app/api?username=Krandheer&count_private=true&show_icons=true&theme=dark)](https://github.com/Krandheer/github-readme-stats)
 # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krandheer&count_private=true&langs_count=10&layout=compact)](https://github.com/Krandheer/github-readme-stats) -->
 <!-- # [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Krandheer)](https://github.com/Krandheer/github-readme-stats) -->
