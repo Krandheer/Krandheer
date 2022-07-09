@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="100"/>
-</div>
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/randheer-kumar-gautam-804908120/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/randheer-kumar-gautam-804908120/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
 </div>
 
 <p style = "align:center">Hi, I’m Randheer  👋  </p>
