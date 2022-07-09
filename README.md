@@ -37,7 +37,21 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
  </div>
-<!-- # [![Randheer GitHub stats](https://github-readme-stats.vercel.app/api?username=Krandheer&count_private=true&show_icons=true&theme=dark)](https://github.com/Krandheer/github-readme-stats)
+ 
+---
+ 
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Krandheer&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krandheer&count_private=true&langs_count=10&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :writing_hand: My recent writing :
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<!--
 # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krandheer&count_private=true&langs_count=10&layout=compact)](https://github.com/Krandheer/github-readme-stats) -->
 <!-- # [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Krandheer)](https://github.com/Krandheer/github-readme-stats) -->
 <!---
