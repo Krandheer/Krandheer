@@ -48,13 +48,4 @@
 ---
 
 ### :writing_hand: My recent writing :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<!--
-# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krandheer&count_private=true&langs_count=10&layout=compact)](https://github.com/Krandheer/github-readme-stats) -->
-<!-- # [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Krandheer)](https://github.com/Krandheer/github-readme-stats) -->
-<!---
-Krandheer/Krandheer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[Recession, skills and survival](https://randheer1.substack.com/)
