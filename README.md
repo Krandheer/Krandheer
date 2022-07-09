@@ -5,9 +5,9 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
+  <img src="https://komarev.com/ghpvc/?username=Krandheer&style=flat-square&color=blue" alt=""/>
+  <p>Hey! fellow developer  👋  </p>
 </div>
-
-<p style = "align:center">Hi, I’m Randheer  👋  </p>
 <hr>
 <p> 👀 I’m interested in web development, data science, AI, healtcare technologies and finance </p?
 <p> 🌱 I’m continuously reading and learning about things I'm interested in. </p>
