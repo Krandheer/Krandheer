@@ -18,7 +18,7 @@
 - 🌱 I’m continuously reading and learning about things I'm interested in.
 - 💞️ I’m looking to collaborate on above interested areas of mine. 
 - Reach me through LinkedIn [![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/randheer-kumar-gautam-804908120/)
-- 📫 To reach me through email [![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](randheer.dakshana15@gmail.com)
+- 📫 To reach me through email [![Linkedin Badge](https://img.shields.io/badge/-gmail-blue?style=flat&logo=Gmail&logoColor=white)](randheer.dakshana15@gmail.com)
 
 <!-- # [![Randheer GitHub stats](https://github-readme-stats.vercel.app/api?username=Krandheer&count_private=true&show_icons=true&theme=dark)](https://github.com/Krandheer/github-readme-stats)
 # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krandheer&count_private=true&langs_count=10&layout=compact)](https://github.com/Krandheer/github-readme-stats) -->
