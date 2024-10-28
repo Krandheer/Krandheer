@@ -42,14 +42,8 @@
  
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Krandheer&theme=dark&background=000000)](https://git.io/streak-stats)
+
 <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Krandheer"/></a> -->
-
-<br/>
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krandheer&count_private=true&langs_count=8&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krandheer&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 ### :writing_hand: My recent writing :
 [perspective on life adversities]([https://randheer1.substack.com/p/recession-skills-and-survival](https://randheer1.substack.com/p/perspective-on-life-adversities))
